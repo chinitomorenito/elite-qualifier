@@ -1,6 +1,6 @@
-# Title
+# Project for Code2College
 
-Simple (or clever and funny?) description
+Elite qualifier for Code2College
 
 ## Table of Contents
 
