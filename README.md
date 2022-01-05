@@ -1,6 +1,6 @@
 # Project for Code2College
 
-Elite qualifier for Code2College
+Robot who talks
 
 ## Table of Contents
 
@@ -16,8 +16,7 @@ This is why this application exists.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
-
+the link to the project[]
 ## Usage
 
 These are the steps to use the application or interact with it.

@@ -19,4 +19,5 @@ if fun == "yes":
     a = random.randint(1,6)
     print (a)
   else: "wow you are boring"
-else: "wow you are boring"
+else: "wow you are boring" 
+if 
