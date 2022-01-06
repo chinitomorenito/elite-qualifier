@@ -19,4 +19,10 @@ if fun == "yes":
     a = random.randint(1,6)
     print (a)
   else: "wow you are boring"
-else: "wow you are boring"
+else: "wow you are boring" 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
