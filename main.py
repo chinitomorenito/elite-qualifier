@@ -20,4 +20,9 @@ if fun == "yes":
     print (a)
   else: "wow you are boring"
 else: "wow you are boring" 
-if 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
